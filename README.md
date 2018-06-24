@@ -93,4 +93,8 @@ accurate enough to keep the bugs away.**
 - (GMT+12:00) Fiji Islands, Kamchatka, Marshall Islands
 - (GMT+13:00) Nuku'alofa
 
-The list is available in plain text [here](/timezones.txt).
+The list is available in plain text [here](/friendly-timezones/blob/master/timezones.txt).
+
+The original list was pulled from [here](https://docs.microsoft.com/en-us/previous-versions/windows/embedded/ms912391(v=winembedded.11))
+which Microsoft states is out of date. Feel free to submit a pull request with
+changes.
